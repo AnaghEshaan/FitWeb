@@ -1,0 +1,67 @@
+.jumbotron
+{
+    text-align: center;
+}
+
+.sectiondark
+{
+    background-color: rgb(46, 46, 46);
+    padding:2rem;
+}
+
+.sectionlight
+{
+    background-color: rgb(233,236,239);
+    padding:2em;
+}
+
+.buttonwrapper
+{
+    margin-top: 20px;
+}
+
+.buttonwrap
+{
+    display: block;
+    margin:auto;
+}
+
+.modalformwrapper
+{
+    padding:2rem;
+}
+
+
+.imgcenter
+{
+    display: block;
+    margin:auto;
+}
+
+.btnCenter
+{
+    display:block;
+    margin:auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width:70%;
+}
+
+.footer
+{
+    background-color: rgb(0, 0, 0);
+    padding:30px;
+}
+
+
+.fa
+{
+    
+    margin:10px;
+}
+
+.icon-footer
+{
+    display: block;
+    margin:auto;
+}
